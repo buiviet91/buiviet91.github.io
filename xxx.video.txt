@@ -1,0 +1,18 @@
+
+.box {
+    float: left;
+    padding: 5px;
+    margin: 10px;
+    width: 30%;
+    border: 1px solid blue;
+    border-top-width: 5px;
+}
+.infor {
+    border-color: chartreuse;
+}
+.contact span{
+    border-color: crimson;
+    color: fuchsia;
+}
+.company {
+    border-color: darkmagenta;
